@@ -7,16 +7,6 @@ I am passionate about building scalable backend applications using Java and Spri
 
 ---
 
-## 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
----
-
 ## 🏆 Projects
 
 ### 🛒 E-Commerce Backend Application
@@ -31,6 +21,13 @@ I am passionate about building scalable backend applications using Java and Spri
 - Used Spring Data JPA for efficient database interaction
 
 ---
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ## 📊 Problem Solving
 - Solved 500+ DSA problems across LeetCode and GeeksforGeeks
@@ -46,7 +43,7 @@ I am passionate about building scalable backend applications using Java and Spri
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/
+- 💼 LinkedIn: https://www.linkedin.com/in/thulasiram-java/
 
 ---
 
