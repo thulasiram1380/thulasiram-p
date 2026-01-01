@@ -1,71 +1,54 @@
-👋 Hi, I'm Thulasiram
+# 👋 Hi, I'm Thulasiram
 
-🎓 Computer Science Student
-🚀 Aspiring Backend Developer
+🎓 Computer Science Student  
+🚀 Aspiring Backend Developer  
 
-I am focused on building clean and scalable backend applications using Java and Spring Boot, while continuously strengthening my problem-solving skills through Data Structures and Algorithms.
+I am passionate about building scalable backend applications using Java and Spring Boot, and continuously improving my problem-solving skills through Data Structures and Algorithms.
 
-💻 Tech Stack
+---
 
-Languages & Backend
+## 💻 Tech Stack
 
-Java
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-Spring Boot
+---
 
-Hibernate / JPA
+## 🏆 Projects
 
-Database
+### 🛒 E-Commerce Backend Application
+- Built a complete backend system using Spring Boot and MySQL
+- Implemented CRUD APIs for Product, Category, and Image modules
+- Designed clean Controller–Service–Repository architecture
+- Added custom JPA queries and global exception handling
 
-MySQL
+### 🏥 Hospital Management System
+- Developed backend modules for doctors, patients, appointments, and billing
+- Implemented CRUD operations with pagination
+- Used Spring Data JPA for efficient database interaction
 
-Tools
+---
 
-Git & GitHub
+## 📊 Problem Solving
+- Solved 500+ DSA problems across LeetCode and GeeksforGeeks
+- Strong practice in arrays, strings, trees, graphs, and dynamic programming
+- Consistent daily problem-solving habit
 
-Postman
+---
 
-Core Concepts
+## 📌 Coding Profiles
+- 🔗 LeetCode: https://leetcode.com/u/Thulasiram_P/
+- 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/thulasirnv6m
 
-RESTful API Development
+---
 
-Layered Architecture
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/
 
-Data Structures & Algorithms
+---
 
-🏆 Projects
-🛒 E-Commerce Backend Application
+⭐ *Always learning. Always building.*
 
-Developed a complete backend system using Spring Boot and MySQL
-
-Implemented CRUD APIs for Product, Category, and Image modules
-
-Designed clean Controller–Service–Repository architecture
-
-Added custom JPA queries and global exception handling
-
-🏥 Hospital Management System
-
-Built backend modules for doctors, patients, appointments, and billing
-
-Implemented CRUD operations with pagination for efficient data handling
-
-Used Spring Data JPA for database interaction
-
-📊 Problem Solving
-
-Solved 500+ DSA problems across LeetCode and GeeksforGeeks
-
-Strong practice in arrays, strings, trees, graphs, and dynamic programming
-
-Consistent daily problem-solving habit
-
-📌 Coding Profiles
-
-🔗 LeetCode: https://leetcode.com/u/Thulasiram_P/
-
-🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/thulasirnv6m
-
-📫 Connect With Me
-
-💼 LinkedIn: (add your LinkedIn profile link)
