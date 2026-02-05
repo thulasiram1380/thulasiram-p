@@ -9,7 +9,7 @@ I am passionate about building scalable backend applications using **Java and Sp
 
 ## 🏆 Projects
 
-### 🛒 [E-Commerce Backend Application](https://github.com/thulasiram1380/E-Commerce-Backend)
+### 🛒 [E-Commerce Backend Application](https://github.com/thulasiram1380/Ecommerce-Backend.git)
 - Built a complete backend system using Spring Boot and MySQL  
 - Implemented CRUD APIs for Product, Category, and Image modules  
 - Designed clean Controller–Service–Repository architecture  
@@ -17,7 +17,7 @@ I am passionate about building scalable backend applications using **Java and Sp
 
 ---
 
-### 🏥 [Hospital Management System](https://github.com/thulasiram1380/Hospital-Management-System)
+### 🏥 [Hospital Management System](https://github.com/thulasiram1380/Hospital-Management-System.git)
 - Developed backend modules for doctors, patients, appointments, and billing  
 - Implemented CRUD operations with pagination  
 - Used Spring Data JPA for efficient database interaction  
@@ -36,7 +36,7 @@ I am passionate about building scalable backend applications using **Java and Sp
 
 ---
 
-### 🎓 [Course Registration System](https://github.com/thulasiram1380/Course-Registration-System)
+### 🎓 [Course Registration System](https://github.com/thulasiram1380/Course_registration_System.git)
 - Developed a **full stack Java application** for course management  
 - Enabled users to view courses, register new courses, and enroll dynamically  
 - Implemented REST APIs using Spring Boot and MySQL  
