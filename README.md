@@ -88,8 +88,8 @@ I am passionate about building scalable backend applications using **Java and Sp
 ---
 
 ## 📊 Problem Solving
-- Solved **500+ DSA problems** across LeetCode and GeeksforGeeks  
-- Strong practice in arrays, strings, trees, graphs, and dynamic programming  
+- Solved **600+ DSA problems** across LeetCode and GeeksforGeeks  
+- Strong practice in arrays, strings, trees, graphs  
 - Maintains a consistent daily problem-solving habit  
 
 ---
