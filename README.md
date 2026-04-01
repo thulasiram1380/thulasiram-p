@@ -52,18 +52,36 @@ I am passionate about building scalable backend applications using **Java and Sp
 ### 🔹 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🔹 Database
+### 🔹 Database & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🔹 Core Concepts
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-000000?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-000000?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-000000?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-000000?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-000000?style=for-the-badge)
+
+### 🔹 API & Backend Engineering
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-FF5733?style=for-the-badge)
+![Token Bucket](https://img.shields.io/badge/Token_Bucket_Algorithm-FF5733?style=for-the-badge)
+![Exception Handling](https://img.shields.io/badge/Global_Exception_Handling-FF5733?style=for-the-badge)
+![Validation](https://img.shields.io/badge/API_Validation-FF5733?style=for-the-badge)
 
 ### 🔹 Frontend (Basics)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔹 Tools
+### 🔹 Tools & Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
